@@ -9,7 +9,7 @@
 1. Create a firebase project from firebase console
 2. Download `google-services.json` from your project and place in `android>app` directory.
 3. Make sure of your app package name. The package name should be unique while creating a project in firebase console.
-4. Replace the existing package(com.viauapp) name with your package name in the RNFirebaseCallNotifications project.
+4. Replace the existing package(`com.viauapp`) name with your package name in the RNFirebaseCallNotifications project or you can create a new project with `com.viauapp` android package name. 
 
 ## Project setup
 
